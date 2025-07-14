@@ -1,0 +1,19 @@
+{
+  "name": "boostiq-api",
+  "version": "1.0.0",
+  "main": "boostiq_api_optimized_further.js",
+  "scripts": {
+    "start": "node boostiq_api_optimized_further.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "node-cache": "^5.1.2",
+    "winston": "^3.8.2",
+    "cors": "^2.8.5",
+    "helmet": "^7.0.0",
+    "compression": "^1.7.4",
+    "express-rate-limit": "^6.7.0",
+    "dotenv": "^16.0.3"
+  }
+}
